@@ -39,11 +39,10 @@
     "name": "mancku"
   },
   "license": "MIT",
-  "homepage": "https://github.com/mancku/strapi-plugin-schemas-to-ts#readme",
-  "changelog": "https://github.com/mancku/strapi-plugin-schemas-to-ts/blob/main/CHANGELOG.md",
+  "homepage": "https://github.com/justAnArthur/strapi-plugin-schemas-to-ts#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mancku/strapi-plugin-schemas-to-ts.git"
+    "url": "https://github.com/justAnArthur/strapi-plugin-schemas-to-ts"
   },
   "bugs": {
     "url": "https://github.com/mancku/strapi-plugin-schemas-to-ts/issues"
